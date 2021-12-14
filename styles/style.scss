@@ -227,7 +227,7 @@ body {
 
     &__svg {
         @include imgValues();
-        background-image: url('/img/man.svg');
+        background-image: url('../img/man.svg');
         width: 250px;
         height: 200px;
         margin-top: 40px;
@@ -297,7 +297,7 @@ body {
 
     &__r-mo-w-_iZqdviAo-unsplash {
         @include imgValues();
-        background-image: url('/img/r-mo-w-_iZqdviAo-unsplash\ 1.png');
+        background-image: url('../img/r-mo-w-_iZqdviAo-unsplash\ 1.png');
         width: 275px;
         height: 175px;
         margin-top: -20px;
@@ -315,7 +315,7 @@ body {
 
     &__andrew-keymaster-lbHv1zXgo2w-unsplash {
         @include imgValues();
-        background-image: url('/img/andrew-keymaster-lbHv1zXgo2w-unsplash\ 1.png');
+        background-image: url('../img/andrew-keymaster-lbHv1zXgo2w-unsplash\ 1.png');
         width: 275px;
         height: 200px;
         
@@ -333,28 +333,28 @@ body {
 
     &__mike-lutke-MJwmcKxRwAc-unsplash {
         @include imgValues();
-        background-image: url('/img/mike-lutke-MJwmcKxRwAc-unsplash\ 1.png');
+        background-image: url('../img/mike-lutke-MJwmcKxRwAc-unsplash\ 1.png');
         width: 260px;
         height: 385px;
     }
 
     &__joao-cruz-YqeK4k36F4U-unsplash {
         @include imgValues();
-        background-image: url('/img/joao-cruz-YqeK4k36F4U-unsplash\ 1.png');
+        background-image: url('../img/joao-cruz-YqeK4k36F4U-unsplash\ 1.png');
         width: 260px;
         height: 385px;
     }
 
     &__fabrizio-verrecchia-cukIbtQ5Hdk-unsplash {
         @include imgValues();
-        background-image: url('/img/fabrizio-verrecchia-cukIbtQ5Hdk-unsplash\ 2.png');
+        background-image: url('../img/fabrizio-verrecchia-cukIbtQ5Hdk-unsplash\ 2.png');
         width: 260px;
         height: 175px;
     }
 
     &__rob-wingate-Fd9tUmRBJzk-unsplash {
         @include imgValues();
-        background-image: url('/img/rob-wingate-Fd9tUmRBJzk-unsplash\ 4.png');
+        background-image: url('../img/rob-wingate-Fd9tUmRBJzk-unsplash\ 4.png');
         width: 260px;
         height: 150px;
         background-size: cover;
